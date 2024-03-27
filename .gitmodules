@@ -1,0 +1,3 @@
+[submodule "paradetox"]
+	path = paradetox
+	url = https://github.com/s-nlp/paradetox
