@@ -11,7 +11,7 @@ The aim is to evaluate both methods based on **toxicity reduction**, **fluency**
 
 ---
 
-## 📊 Methods Compared
+## Methods Compared
 
 ### MIL-Decoding (Zhang & Wan, 2023)
 - Integrates a **Multiple Instance Learning** framework into the decoding stage of GPT-2.
